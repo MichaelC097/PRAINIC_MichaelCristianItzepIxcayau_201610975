@@ -2,7 +2,7 @@
 ---
 
 ## 1. **Ahora con la misma informacion que me brindaste. Necesito redactar un trifoliar breve y dinamico sin adentrarse demasiado, pero eficiente.**
-![Foto de captura 1](./img/Screenshot 2025-02-06 055601.png)
+![Foto de captura 1](./img/Screenshot%202025-02-06%20055601.png)
 
 ---
 
