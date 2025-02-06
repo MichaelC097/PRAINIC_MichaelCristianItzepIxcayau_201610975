@@ -1,6 +1,6 @@
 # Manual de Mantenimiento Preventivo de Hardware de una Laptop
 
-Este manual tiene como objetivo guiarte en el mantenimiento preventivo de los componentes de hardware de una laptop. Con el mantenimiento adecuado, podrás prolongar la vida útil de tu equipo, mejorar su rendimiento y evitar fallas a largo plazo.
+Este manual tiene como objetivo brindar una guia en el mantenimiento preventivo de los componentes de hardware de una laptop. Con el mantenimiento adecuado, es posible prolongar la vida útil del equipo, mejorar su rendimiento y evitar fallas a largo plazo.
 
 ---
 
@@ -21,8 +21,10 @@ El mantenimiento preventivo de hardware busca prevenir fallos mecánicos o térm
 ## 3. **Materiales Necesarios**
 ### Materiales básicos para la limpieza externa:
 - Paño de microfibra.
+- Isopos (Para los sitios mas dificiles de acceder)
 - Limpiador suave para pantallas (opcional).
 - Aire comprimido (para limpiar el teclado y las rejillas de ventilación).
+- Alcohol Isopropilico
 
 ### Herramientas para la limpieza interna:
 - Destornilladores pequeños (generalmente Phillips).
@@ -74,14 +76,3 @@ El mantenimiento preventivo de hardware busca prevenir fallos mecánicos o térm
 - **Realiza respaldos periódicos**: Aunque el mantenimiento preventivo de hardware puede evitar fallos, siempre es recomendable tener copias de seguridad de tus datos en la nube o en dispositivos externos.
 - **Limpieza periódica**: Incluso si tu laptop está en un entorno limpio, es importante limpiar regularmente el polvo y la suciedad que se acumula en los componentes internos, especialmente el ventilador.
 - **Actualiza los controladores**: Mantén siempre actualizados los controladores de tu hardware, especialmente los de la tarjeta gráfica, la red y el sonido, para garantizar el mejor rendimiento.
-
----
-
-## 7. **Conclusión**
-El mantenimiento preventivo de hardware de tu laptop es esencial para asegurar su funcionamiento óptimo y prolongar su vida útil. A través de limpiezas regulares, revisiones de los componentes internos y el monitoreo de temperaturas y otros parámetros, puedes evitar fallos imprevistos y mejorar el rendimiento de tu equipo.
-
-Recuerda que la prevención es la clave, y al seguir este manual de manera periódica, evitarás muchos problemas futuros.
-
----
-
-Este manual en formato Markdown te ofrece una estructura completa para llevar a cabo el mantenimiento preventivo de los componentes de hardware de una laptop. Puedes adaptarlo a las necesidades específicas de tu equipo o ampliarlo según lo que consideres necesario. Si necesitas más detalles o tienes alguna duda adicional, ¡no dudes en preguntar!
