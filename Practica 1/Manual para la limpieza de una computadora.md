@@ -76,3 +76,10 @@ El mantenimiento preventivo de hardware busca prevenir fallos mecánicos o térm
 - **Realiza respaldos periódicos**: Aunque el mantenimiento preventivo de hardware puede evitar fallos, siempre es recomendable tener copias de seguridad de tus datos en la nube o en dispositivos externos.
 - **Limpieza periódica**: Incluso si tu laptop está en un entorno limpio, es importante limpiar regularmente el polvo y la suciedad que se acumula en los componentes internos, especialmente el ventilador.
 - **Actualiza los controladores**: Mantén siempre actualizados los controladores de tu hardware, especialmente los de la tarjeta gráfica, la red y el sonido, para garantizar el mejor rendimiento.
+
+---
+
+## 6. **Enlaces del material de apoyo**
+- **Repositorio GitHub**: [GitHub](https://github.com/MichaelC097/PRAINIC_MichaelCristianItzepIxcayau_201610975.git)
+- **Videotutorial YouTube**: [YouTube](https://youtu.be/fELqmLALrK0)
+
